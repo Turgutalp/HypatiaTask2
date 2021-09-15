@@ -2,9 +2,7 @@
  * Kullanıcıdan kaç adet eleman gireceği bilgisini alın.
  * Ardından sırayla elemanları alıp diziye atın.
  * Veri girişi bitince dizinin elemanlarını 2 kolon olacak şekilde ekrana yazdırın.
-Örnek Çıktı :    1    2
-                 3    4
-                 5    6
+
 
  */
 
