@@ -1,0 +1,15 @@
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/bin/Debug/net5.0/demo.deps.json
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/bin/Debug/net5.0/demo.runtimeconfig.json
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/bin/Debug/net5.0/demo.runtimeconfig.dev.json
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/bin/Debug/net5.0/demo.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/bin/Debug/net5.0/ref/demo.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/bin/Debug/net5.0/demo.pdb
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.csproj.AssemblyReference.cache
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.AssemblyInfoInputs.cache
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.AssemblyInfo.cs
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.csproj.CoreCompileInputs.cache
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/ref/demo.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.pdb
+/Users/turgutalptug/RiderProjects/HypatiaTask2/demo/obj/Debug/net5.0/demo.genruntimeconfig.cache

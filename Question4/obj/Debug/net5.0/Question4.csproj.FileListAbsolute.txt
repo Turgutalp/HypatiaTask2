@@ -1,0 +1,15 @@
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/bin/Debug/net5.0/Question4.deps.json
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/bin/Debug/net5.0/Question4.runtimeconfig.json
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/bin/Debug/net5.0/Question4.runtimeconfig.dev.json
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/bin/Debug/net5.0/Question4.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/bin/Debug/net5.0/ref/Question4.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/bin/Debug/net5.0/Question4.pdb
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.csproj.AssemblyReference.cache
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.AssemblyInfoInputs.cache
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.AssemblyInfo.cs
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.csproj.CoreCompileInputs.cache
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/ref/Question4.dll
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.pdb
+/Users/turgutalptug/RiderProjects/HypatiaTask2/Question4/obj/Debug/net5.0/Question4.genruntimeconfig.cache
